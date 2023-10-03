@@ -1,4 +1,4 @@
-# Project 1: Animal Evolution Simulation
+# Animal Evolution Simulation
 
 ## Description:
 This project simulates the evolution of animals on a two-dimensional map with grass. Animals move around the map, consume grass, and reproduce. The simulation allows users to observe changes in animal populations and their genotypes over time.
